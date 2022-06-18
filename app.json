@@ -5,6 +5,8 @@
     "logo": "https://c4.wallpaperflare.com/wallpaper/885/793/289/anime-darling-in-the-franxx-zero-two-darling-in-the-franxx-wallpaper-preview.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "multi device"],
     "success_url": "/",
+     "scripts": {
+    "postdeploy": "node index.js"
     "env": {
     "BOT_NAME": {
     "description": "Please Put Your Cute Bot Name here"
