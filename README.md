@@ -6,9 +6,6 @@
 <p align="center"> 
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
   
-## Thanks for Everything 
-- [XEON](https://github.com/dgxeon)
-
 ![Total Repo views](https://gpvc.arturio.dev/sampandey001)
                                                                                                                                              
 ### How to enable Zero-Two On your number
@@ -30,9 +27,11 @@
 
 <a href="https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-##This bot is mainly created on prefix - if you change this buttons will not work
+<a href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-#List of Commands Available in Zero Two
+## This bot is mainly created on prefix - if you change this buttons will not work
+
+# List of Commands Available in Zero Two
   <details>
   <summary>List (Touch Here)</summary>
 <p>
@@ -267,6 +266,10 @@ npm start
  Your WhatsApp Number can be banned by Whatsapp as it is not official
  Zero-Two-MD bot is still in the development stage, so there can be few bugs.Feel free to report that to us.
 ```
+
+## Thanks for Everything 
+- [XEON](https://github.com/dgxeon)
+
 
 ## Developers
 
